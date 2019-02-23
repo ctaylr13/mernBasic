@@ -75,7 +75,7 @@ class ItemModal extends Component {
                                     color="dark"
                                     style={{marginTop: '2rem'}}
                                     block
-                                >Add Item</Button>
+                                >Add Deck</Button>
                             </FormGroup>
                         </Form>
                     </ModalBody>
